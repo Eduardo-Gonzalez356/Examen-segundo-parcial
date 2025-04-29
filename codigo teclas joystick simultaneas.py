@@ -12,7 +12,7 @@ import threading
 import time
 
 # Dirección IP de la Raspberry Pi Pico W
-pico_ip = "192.168.1.110"  # Cambia esta IP por la de tu Pico W
+pico_ip = "192.XXX.XXX"  # Cambia esta IP por la de tu Pico W
 
 # Configuración de Arduino
 arduino_port = "COM4"  # Cambia este puerto según tu configuración
